@@ -1,0 +1,6 @@
+{
+  "name": "BREAKDOWN - Extreme Metal, Grindcore & Djent Generator",
+  "description": "Generate brutal hardcore, grindcore, and djent bands complete with album artwork, chuggy polyrhythmic riffs, blast beats, breakdowns, tabs, merch mockups, and heavy audio synthesis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
